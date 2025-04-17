@@ -1,10 +1,6 @@
 # **TrapNet_EVs**  
 ### *High-Accuracy Label-Free Classification of Cancerous Extracellular Vesicles with Nanoaperture Optical Tweezers and Deep Learning*
 
-Abstract: Extracellular vesicles (EVs) are easily accessible in biological fluids and carry the molecular "fingerprints" of their parent cells, making them compelling candidates for minimally invasive cancer diagnostics. For future translation into clinical settings, greater sensitivity and specificity are desired. Here we
-achieve near-perfect classification for cancerous (2 types) and non-cancerous cell-derived EVs by using nanoaperture optical tweezers (NOTs) and deep learning. The NOT approach is label-free and has single-EV sensitivity -- the signal acquired is simply the laser tweezer scattered light. The high level of specificity is achieved by custom design of a four-layer convolution and Kolmogorov-Arnold linear layer deep learning model. Several other models are compared with this approach. Beyond diagnostics, this platform opens avenues for real-time EV profiling, deepening our biological understanding and advancing the development of minimally invasive personalized medicine.
-
-This repository contains the implementation of **TrapNet**, a deep learning framework for high-accuracy, label-free classification of extracellular vesicles (EVs) using nanoaperture optical tweezers (NOT). The model leverages temporal features extracted from optical trapping signals to distinguish cancerous EVs from non-cancerous ones.
 
 ---
 
