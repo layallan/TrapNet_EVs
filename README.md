@@ -47,6 +47,10 @@ TrapNet_EVs/
 ---
 
 ## 🚀 **Quick Start**
+Modify the local file address
+
+### **0. Running Checking point**
+python plot_tnse_test.py
 
 ### **1. Training TrapNet**
 
