@@ -88,7 +88,7 @@ To visualize the near-field electric field enhancement in the double-nanohole se
 python FDTD/DNH_Curve.py
 ```
 
-This uses Total-Field Scattered-Field (TFSF) methods for simulating the NOT setup.
+This uses Total-Field Scattered-Field (TFSF) methods for simulating the gold double-nanohole (DNH) sample.
 
 ---
 
